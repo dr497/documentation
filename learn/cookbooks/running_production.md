@@ -93,7 +93,7 @@ Update the following lines so Meilisearch stores its data in the home folder of 
 env = "production"
 master_key = "YOUR_MASTER_KEY_VALUE"
 db_path = "/var/lib/meilisearch/data"
-dump_dir = "/var/lib/meilisearch/dumps"
+dumps_dir = "/var/lib/meilisearch/dumps"
 snapshot_dir = "/var/lib/meilisearch/snapshots"
 ```
 
